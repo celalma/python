@@ -1,4 +1,4 @@
-# Python
+# Slither
 This is a wiki/guide for learning the Python programming language.
 
 ```python
