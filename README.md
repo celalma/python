@@ -12,4 +12,4 @@ Hello World!
 Check the `Wiki` tab or click [here]() to see the documentation.
 
 ## Licence
-[MIT Licence]()
+[MIT Licence](https://github.com/celalma/python?tab=MIT-1-ov-file)
